@@ -1,5 +1,5 @@
 # Rust Guessing Game
-![CI](https://github.com/alparslanahmed/rust_guessing_game/actions/workflows/rust.yml/badge.svg)
+[![CI](https://github.com/alparslanahmed/rust_guessing_game/actions/workflows/rust.yml/badge.svg)](https://github.com/alparslanahmed/rust_guessing_game/actions?query=workflow%3Arust+branch%3Amaster)
 
 My journey into Rust started now and this is my first Rust code from Chapter 2 of [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) book. 
 I am planning to add as many as possible features to this project parallel by the learning process.
